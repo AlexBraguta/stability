@@ -1,0 +1,11 @@
+              token  stability
+82        ALICEUSDT        415
+136        ASTRUSDT        397
+121          OPUSDT        381
+2           BCHUSDT        375
+129         FETUSDT        366
+102     1000XECUSDT        343
+159         EDUUSDT        340
+77          SFPUSDT        328
+86         STMXUSDT        326
+26          ZILUSDT        325

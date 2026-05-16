@@ -1,0 +1,11 @@
+              token  stability
+129         SFPUSDT        402
+136        API3USDT        376
+77         ETHWUSDT        373
+121          EDUUST        368
+102       ALICEUSDT        360
+4           CFXUSDT        353
+2          BAKEUSDT        348
+26          ONGUSDT        331
+159         BELUSDT        329
+19          BCHUSDT        326

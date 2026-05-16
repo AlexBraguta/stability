@@ -1,0 +1,5 @@
+binance-futures-connector
+pandas
+numpy
+python-dotenv
+streamlit

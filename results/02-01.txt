@@ -1,0 +1,11 @@
+              token  stability
+199      BADGERUSDT        433
+77          SFPUSDT        427
+90          MTLUSDT        363
+4           EOSUSDT        328
+1           ETHUSDT        325
+92          NKNUSDT        325
+79         COTIUSDT        317
+175         BNTUSDT        316
+139         CFXUSDT        312
+7           ETCUSDT        305

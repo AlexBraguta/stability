@@ -1,0 +1,11 @@
+              token  stability
+160         OXTUSDT        406
+193    1000RATSUSDT        348
+258       QUICKUSDT        330
+190         JTOUSDT        300
+48          UNIUSDT        298
+315        DEGOUSDT        296
+32         KAVAUSDT        287
+164         ARKUSDT        255
+5           LTCUSDT        248
+192     AUCTIONUSDT        246

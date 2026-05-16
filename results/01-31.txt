@@ -1,0 +1,11 @@
+              token  stability
+77          SFPUSDT        443
+139         CFXUSDT        386
+90          MTLUSDT        366
+199      BADGERUSDT        342
+7           ETCUSDT        321
+179        HIFIUSDT        313
+102     1000XECUSDT        305
+20          VETUSDT        300
+195         TWTUSDT        297
+322  1000CHEEMSUSDT        296

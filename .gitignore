@@ -1,0 +1,17 @@
+# Secrets & runtime
+.env
+.streamlit_pid
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editor / tooling
+CLAUDE.md
+.claude/
+.idea/
+.vscode/
+.DS_Store

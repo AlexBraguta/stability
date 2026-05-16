@@ -156,6 +156,6 @@ stability/
 
 ## 📄 License
 
-Free to use, copy, modify and distribute for any purpose — see
-[LICENSE](LICENSE). Provided as-is, with no warranty. Not financial
+Released under the [MIT License](LICENSE) — free to use, copy, modify
+and distribute. Provided as-is, with no warranty. Not financial
 advice — do your own analysis before trading.

@@ -1,4 +1,4 @@
-"""v.1.0.1 © December Capital
+"""v.1.0.1
 
 Core stability logic, shared by the console program (main.py) and the
 Streamlit dashboard (app.py).

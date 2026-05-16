@@ -1,4 +1,4 @@
-"""v.1.0.1 © December Capital
+"""v.1.0.1
 Calculates Token Stability by counting intersections with past candles
 from 3 timeframes ( 1h , 4h , 1d ).
 Prints a sorted DataFrame with the Highest Stability at the Top.

@@ -18,6 +18,10 @@ st.caption(
     f"price, across {', '.join(TIMEFRAMES)} ({CANDLE_LIMIT} candles each), summed. "
     f"Higher = price has spent more time at this level."
 )
+st.caption(
+    "ℹ️ For informational and educational analysis only — not trading or "
+    "financial advice. Past data does not predict future performance."
+)
 
 CREDS_MISSING = (
     not config.API_KEY

@@ -154,8 +154,20 @@ stability/
 
 ---
 
+## ⚠️ Disclaimer
+
+**This project is for informational and educational analysis only. It
+is not trading or financial advice, not an investment recommendation,
+and not a solicitation to buy or sell any asset.** The stability score
+is a statistical observation of past price data and says nothing about
+future performance. Markets are risky and you can lose money. You are
+solely responsible for any decisions you make — always do your own
+research. The software is provided "as is", with no warranty of any
+kind.
+
+---
+
 ## 📄 License
 
 Released under the [MIT License](LICENSE) — free to use, copy, modify
-and distribute. Provided as-is, with no warranty. Not financial
-advice — do your own analysis before trading.
+and distribute.
